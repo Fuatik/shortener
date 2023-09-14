@@ -1,1 +1,2 @@
-# shortener
+# Shortener
+# custom HasMap implementation. 
