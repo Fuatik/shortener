@@ -1,10 +1,11 @@
-package com.javarush.task.task33.task3310.tests;
+package src.tests;
 
-import com.javarush.task.task33.task3310.Helper;
-import com.javarush.task.task33.task3310.Shortener;
-import com.javarush.task.task33.task3310.Solution;
-import com.javarush.task.task33.task3310.strategy.HashBiMapStorageStrategy;
-import com.javarush.task.task33.task3310.strategy.HashMapStorageStrategy;
+import src.Helper;
+import src.Shortener;
+
+import src.Solution;
+import src.strategy.HashBiMapStorageStrategy;
+import src.strategy.HashMapStorageStrategy;
 import org.junit.Test;
 
 import java.util.Date;

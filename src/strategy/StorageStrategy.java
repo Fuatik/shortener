@@ -1,4 +1,4 @@
-package com.javarush.task.task33.task3310.strategy;
+package src.strategy;
 
 public interface StorageStrategy {
     boolean containsKey(Long key);

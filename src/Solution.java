@@ -1,6 +1,8 @@
-package com.javarush.task.task33.task3310;
+package src;
 
-import com.javarush.task.task33.task3310.strategy.*;
+
+
+import src.strategy.*;
 
 import java.util.Date;
 import java.util.HashSet;
@@ -8,7 +10,7 @@ import java.util.Set;
 
 public class Solution {
     public static void main(String[] args) {
-        long testElementsNumber = 5000;
+        long testElementsNumber = 1000;
         testStrategy(new HashMapStorageStrategy(), testElementsNumber);
         testStrategy(new OurHashMapStorageStrategy(), testElementsNumber);
         testStrategy(new FileStorageStrategy(), testElementsNumber);

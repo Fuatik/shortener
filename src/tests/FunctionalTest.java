@@ -1,8 +1,9 @@
-package com.javarush.task.task33.task3310.tests;
+package src.tests;
 
-import com.javarush.task.task33.task3310.Shortener;
-import com.javarush.task.task33.task3310.strategy.*;
+import src.Shortener;
+
 import org.junit.Test;
+import src.strategy.*;
 
 import static org.junit.Assert.*;
 

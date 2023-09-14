@@ -1,4 +1,4 @@
-package com.javarush.task.task33.task3310.strategy;
+package src.strategy;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

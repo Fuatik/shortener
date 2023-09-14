@@ -1,4 +1,4 @@
-package com.javarush.task.task33.task3310;
+package src;
 
 public class ExceptionHandler {
     public static void log(Exception e) {

@@ -1,6 +1,6 @@
-package com.javarush.task.task33.task3310;
+package src;
 
-import com.javarush.task.task33.task3310.strategy.StorageStrategy;
+import src.strategy.StorageStrategy;
 
 public class Shortener {
     private long id;

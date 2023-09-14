@@ -1,4 +1,4 @@
-package com.javarush.task.task33.task3310.strategy;
+package src.strategy;
 
 public class OurHashMapStorageStrategy implements StorageStrategy {
     static final int DEFAULT_INITIAL_CAPACITY = 16;
